@@ -1,10 +1,1 @@
-<html5>
-
-    <head>
-
-        <title>Atoms - Productivity App</title>
-    </head>
-    <body>
-        Hellow World!!!
-    </body>
-</html5>
+Atoms is a productivity app. Some amalgamation of Google Keep (Creating small notes), Khan academy (Accumulation of points for doing stuff) and time tracking and statistics.  
