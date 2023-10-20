@@ -16,6 +16,7 @@ const parsedAtoms = JSON.parse(jsonLocalStorage);
 // check if already have array of atoms stored in Local Storage
 if (Array.isArray(parsedAtoms)) {
   localStorageAtoms = parsedAtoms;
+  console.log("localStorageAtoms", localStorageAtoms);
 }
 
 const stringifiedAtoms = JSON.stringify(localStorageAtoms);
